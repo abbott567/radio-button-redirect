@@ -1,0 +1,24 @@
+{
+  "name": "radio-button-redirect",
+  "version": "1.0.0",
+  "description": "Allows you to do redirects from radio buttons without touching the routes file.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abbott567/radio-button-redirect.git"
+  },
+  "keywords": [
+    "prototype-kit",
+    "gov",
+    "prototyping",
+    "government",
+    "design-system-team",
+    "govuk"
+  ],
+  "author": "abbott567",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abbott567/radio-button-redirect/issues"
+  },
+  "homepage": "https://github.com/abbott567/radio-button-redirect#readme"
+}
