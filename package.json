@@ -1,6 +1,6 @@
 {
   "name": "radio-button-redirect",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Allows you to do redirects from radio buttons without touching the routes file.",
   "main": "index.js",
   "repository": {
