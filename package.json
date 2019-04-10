@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/abbott567/radio-button-redirect.git"
   },
+  "scripts": {
+    "test": "mocha"
+  },
   "keywords": [
     "prototype-kit",
     "gov",
@@ -20,5 +23,10 @@
   "bugs": {
     "url": "https://github.com/abbott567/radio-button-redirect/issues"
   },
-  "homepage": "https://github.com/abbott567/radio-button-redirect#readme"
+  "homepage": "https://github.com/abbott567/radio-button-redirect#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "sinon": "^7.3.1",
+    "sinon-chai": "^3.3.0"
+  }
 }
