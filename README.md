@@ -25,7 +25,7 @@ npm install radio-button-redirect
 ```
 
 ### Step 2 - Tell the router to use the package
-Next, open your routes file at `app/routes.js` and add the following lines below `const router = express.Router()`:
+Next, open your routes file at `app/routes.js` and add the following lines below `const router = govukPrototypeKit.requests.setupRouter()`:
 ```javascript
 const radioButtonRedirect = require('radio-button-redirect')
 router.use(radioButtonRedirect)
